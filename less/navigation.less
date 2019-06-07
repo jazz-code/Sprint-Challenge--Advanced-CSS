@@ -4,6 +4,10 @@ nav-bar {
     max-width: 800px;
     width: 100%;
     margin: 0 auto;
+    
+    @media @mobile {
+        padding: 10px;
+    }
 }
     h1 {
         text-align: center;
@@ -12,13 +16,18 @@ nav-bar {
     }
 
     nav {
-        .custom-layout(center, center);       
-
+        .custom-layout(center, center); 
+        
+        @media @mobile {
+            padding: 2px;
+            
         a {
             margin: 21px 36px 12px 10px;
             font-size: 1.5rem;
             font-weight: bold;
             text-decoration: none;
             color: black;
+
+            }
         }
     }
