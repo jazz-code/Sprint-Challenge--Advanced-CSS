@@ -143,3 +143,8 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Create a fixed navigation and add some opacity to the background
 
 * [ ] Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription
+
+
+#ls1905 Career Assignment:
+
+    I think I'm looking for some mid-size company, less formal, fast pace. Somewhere I could grow my skills as a developer. To be honest, for my first job in this career I'm not looking to be picky-- I'd stay with the right company for a couple of years to learn what I can and move on from there. 
